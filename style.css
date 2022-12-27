@@ -1,0 +1,45 @@
+#ti1 {
+    text-decoration: underline;
+    font-weight: bold;
+    position: absolute;
+    color: white;
+    top: 600px; left: 175px;
+    font-size: 20px;
+}
+
+#ti2 {
+    text-decoration: underline;
+    font-weight: bold;
+    position: absolute;
+    top: 600px; right: 180px;
+    font-size: 20px;
+    color: white;
+}
+
+#desc1 {
+    color: white;
+    display: flex;
+    position: absolute;
+    top: 625px; left: 175px;
+    text-align: center; 
+    font-size: 20px;
+}
+
+#f1 {
+    position: absolute;
+    top: 200px; left: 100px;
+}
+
+#desc2 {
+    color: white;
+    display: flex;
+    position: absolute;
+    top: 625px; right: 180px;
+    text-align: center; 
+    font-size: 20px;
+}
+
+#f2 {
+    position: absolute;
+    top: 200px; right: 100px;
+}
